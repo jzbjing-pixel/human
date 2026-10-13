@@ -1,0 +1,8 @@
+{
+  "id": "rill.human",
+  "version": "0.1.2",
+  "date": "2026-10-13",
+  "sha256": "aed65e98f0e6931906b856322772986a2b9f599d9ef95c585368881c58b1011d",
+  "requiresHost": "Rill 2026-10-13 development host or later with unified binding fields, navigation modules and thumbnail cache",
+  "previous": "0.1.1"
+}
